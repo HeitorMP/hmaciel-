@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: color-app
-        image: hmacielp/color-app:2.0.0
+        image: hmacielp/color-app:1.0.0
         ports:
         - containerPort: 8080
 
